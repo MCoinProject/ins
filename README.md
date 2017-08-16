@@ -1,6 +1,6 @@
 # Insight API
 
-A Litecoin blockchain REST and web socket API service for [Litecore Node](https://github.com/litecoin-project/litecore-node).
+A Mcoin blockchain REST and web socket API service for [Mcore Node](https://github.com/mcoinproject/mcore-node).
 
 This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/litecoin-project/insight-lite-ui.
 
